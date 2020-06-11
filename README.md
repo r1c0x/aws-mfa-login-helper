@@ -18,7 +18,7 @@ aws_access_key_id     = masked
 aws_secret_access_key = masked
 region                = ap-southeast-1
 
-[my_aws_profile_name _mfa]
+[my_aws_profile_name_mfa]
 aws_access_key_id     = masked
 aws_secret_access_key = masked
 aws_session_token     = masked
